@@ -1,1 +1,1 @@
-Gradient-based multi-focus image fusion with  focus-aware saliency enhancement [ICIG 2025]
+# Gradient-based multi-focus image fusion with  focus-aware saliency enhancement [ICIG 2025]
